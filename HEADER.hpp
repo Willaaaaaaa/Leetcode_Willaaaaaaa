@@ -2,6 +2,8 @@
 
 #include <iostream>
 #include <algorithm>
+#include <cmath>
+#include <sstream>
 #include <string>
 #include <vector>
 #include <stack>
